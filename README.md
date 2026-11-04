@@ -14,7 +14,7 @@
 
 ---
 
-## 📋 Overview
+## 📋 Overview-
 
 AITeacher is an intelligent assessment creation platform that leverages Groq's LLM API to automatically generate customized question papers. Built with modern web technologies, it provides a seamless experience for educators to create, manage, and distribute assessments.
 
